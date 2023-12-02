@@ -2,7 +2,6 @@
 [vehicle-reid-0001](https://docs.openvino.ai/2023.2/omz_models_model_vehicle_reid_0001.html) を用いて、Vehicle ReIDを行うサンプルです。<Br>
 モデルは同梱していますが、ダウンロードと最適化も試したい方は[vehicle-reid-0001-onnx-optimize.ipynb](vehicle-reid-0001-onnx-optimize.ipynb)をGoogle Colaboratoryなどで動かしてみてください。<br>
 
-https://github.com/Kazuhito00/vehicle-reid-0001-onnx-sample/assets/37477845/2965b922-4cd5-46ad-9858-c26b1947186e
 
 # Requirement 
 * OpenCV 4.8.1.78 or later
